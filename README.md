@@ -66,5 +66,3 @@ K-Means clustering combined with distance-based anomaly detection effectively id
 1. Load the dataset  
 2. Run the notebook step by step  
 3. Observe clustering results and evaluation metrics
-
-A detailed explanation video is provided below. Please refer to it to understand the project workflow and results 
